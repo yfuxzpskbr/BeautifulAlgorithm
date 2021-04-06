@@ -1,0 +1,5 @@
+﻿  字符串匹配之PabinKarp.cpp
+D:\Visual Studio\my_work\算法很美\11字符串匹配之PabinKarp\字符串匹配之PabinKarp.cpp(17,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visual Studio\my_work\算法很美\11字符串匹配之PabinKarp\字符串匹配之PabinKarp.cpp(76,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\Visual Studio\my_work\算法很美\11字符串匹配之PabinKarp\字符串匹配之PabinKarp.cpp(80,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  11字符串匹配之PabinKarp.vcxproj -> D:\Visual Studio\my_work\算法很美\Debug\11字符串匹配之PabinKarp.exe

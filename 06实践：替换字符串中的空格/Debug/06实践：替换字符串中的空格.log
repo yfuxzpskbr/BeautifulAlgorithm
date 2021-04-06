@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(06实践：替换字符串中的空格.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  实践：替换字符串中的空格.cpp
+  06实践：替换字符串中的空格.vcxproj -> D:\Visual Studio\my_work\算法很美\Debug\04实践：替换字符串中的空格.exe
